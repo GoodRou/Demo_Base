@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+src/main/resources/
+src/test/
+target/classes/META-INF/Demo_Base.kotlin_module
+target/classes/compare/
+target/classes/generic/
+target/generated-sources/
